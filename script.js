@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
     const title = document.querySelector('.title')
-    const text = 'ჰალისის ბრძოლა – 1609'
+    const text = 'ჰალისის ბრძოლა'
     let i = 0
     function type() {
         if (i < text.length) {
